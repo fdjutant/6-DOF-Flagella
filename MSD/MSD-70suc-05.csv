@@ -1,4 +1,4 @@
-lag time [sec], MSD-longitudinal [um^2],MSD-transverse [um^2],MSAD-longitudinal [rad^2], MSAD-transverse [rad^2],MLAD [um x rad]
+lag time [sec], MSD-longitudinal [um^2],MSD-transversal [um^2],MSAD-longitudinal [rad^2], MSAD-transversal [rad^2],MLAD [um x rad]
 0.075,2.420388e-01,5.635375e-03,0.000000e+00,0.000000e+00,-1.750518e-02
 0.15,2.599328e-01,1.079235e-02,2.733441e-01,1.420189e-03,-7.144769e-03
 0.22499999999999998,2.619431e-01,1.571154e-02,3.221243e-01,2.496328e-03,-7.283193e-03
